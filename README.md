@@ -13,8 +13,8 @@ Search any aircraft callsign (e.g.UAL888) to see its live latitude/longitude, al
 FastAPI (backend), Jinja2 (templating), vanilla JS (frontend), OpenSky Network API (live aviation data)
 
 ## Run locally
-\`\`\`
+
 pip install -r requirements.txt
 uvicorn main:app --reload
-\`\`\`
+
 Then open `http://127.0.0.1:8000`
