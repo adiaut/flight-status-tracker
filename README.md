@@ -8,6 +8,7 @@ A live flight-tracking dashboard that looks up any aircraft's real-time position
 ## What it does
 Search any aircraft callsign (e.g.UAL888) to see its live latitude/longitude, altitude, ground speed, and flight status, sourced directly from real-time ADS-B transponder data.
 
+
 ## Stack
 FastAPI (backend), Jinja2 (templating), vanilla JS (frontend), OpenSky Network API (live aviation data)
 
